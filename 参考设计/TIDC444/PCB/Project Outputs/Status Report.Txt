@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TIPD156 Project.PrjPcb]
+   Generated File[TIPD156 PCB-Plated.TXT]
+   Generated File[TIPD156 PCB.DRL]
+   Generated File[TIPD156 PCB.LDP]
+   Generated File[TIPD156 PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:36:54 PM On 6/2/2014

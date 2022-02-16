@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TIDA-01576_DUAL_SDO.PcbDoc   10/12/2017  3:54:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : TIDA-01576_DUAL_SDOE1-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             101       PTH        19.21inch (487.86mm)
+T2      16mil (0.406mm)                                           Round             131       PTH        25.38inch (644.58mm)
+T3      20mil (0.508mm)                                           Round             17        PTH        7.84inch (199.25mm)
+T4      40mil (1.016mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             8         PTH        0.70inch (17.78mm)
+T6      44mil (1.118mm)                                           Round             34        PTH        9.52inch (241.85mm)
+T7      128mil (3.251mm)                                          Round             4         PTH        8.30inch (210.73mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              296
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,14 @@
+Added Component: Designator=J6(XH2.54-WI-12P)
+Added Pin To Net: NetName=TFT_SDA Pin=J6-1
+Added Pin To Net: NetName=TFT_SCL Pin=J6-2
+Added Pin To Net: NetName=TFT_DC Pin=J6-3
+Added Pin To Net: NetName=TFT_RES Pin=J6-4
+Added Pin To Net: NetName=TFT_CS Pin=J6-5
+Added Pin To Net: NetName=TFT_BLK Pin=J6-6
+Added Pin To Net: NetName=PB8 Pin=J6-7
+Added Pin To Net: NetName=PB9 Pin=J6-8
+Added Pin To Net: NetName=PB10 Pin=J6-9
+Added Pin To Net: NetName=PB11 Pin=J6-10
+Added Pin To Net: NetName=VDD Pin=J6-11
+Added Pin To Net: NetName=DGND Pin=J6-12
+Added Member To Class: ClassName=U_STM32_System Member=Component J6 CON12

@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: \\DFRS23\project_web\EVM\ALPS\PMP#_COPY\PMP9796_TecCooler\Rev. A\Altium_Files\PMP9796_A.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_U1|Scope=Board|Minimum=5.90
+RuleKind=Clearance|RuleName=Clearance_Keepouts|Scope=Board|Minimum=0.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_BGA_Room|Scope=Board|Minimum=3.64
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_BoardEdge_MountingHoles|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Clearance_BoardEdge_Poly|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_BoardEdge|Scope=Board|Minimum=36.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_JP4|Scope=Board|Minimum=5.90
+RuleKind=Clearance|RuleName=Clearance_Pad|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance_U1_Poly|Scope=Board|Minimum=5.90

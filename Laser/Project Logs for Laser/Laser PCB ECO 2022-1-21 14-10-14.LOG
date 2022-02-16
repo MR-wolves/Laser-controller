@@ -1,0 +1,226 @@
+Added Component: Designator=C20(CAP-TH_BD5.0-P2.00-D0.8-FD)
+Added Component: Designator=C21(CAP-TH_BD5.0-P2.00-D0.8-FD)
+Added Component: Designator=C22(C 0805_M)
+Added Component: Designator=C23(C 0805_M)
+Added Component: Designator=C24(C 0805_M)
+Added Component: Designator=C25(C 0805_M)
+Added Component: Designator=C26(C 0805_M)
+Added Component: Designator=C27(C 0805_M)
+Added Component: Designator=C28(C 0805_M)
+Added Component: Designator=C29(C 0805_M)
+Added Component: Designator=C30(C 0805_M)
+Added Component: Designator=C31(C 0805_M)
+Added Component: Designator=C32(C 0805_M)
+Added Component: Designator=C33(C 0805_M)
+Added Component: Designator=C34(0805R)
+Added Component: Designator=D4(LED 0805R)
+Added Component: Designator=D5(LED 0805R)
+Added Component: Designator=H5(Í­Öù¿×3)
+Added Component: Designator=H6(Í­Öù¿×3)
+Added Component: Designator=H7(Í­Öù¿×3)
+Added Component: Designator=H8(Í­Öù¿×3)
+Added Component: Designator=J5(CCM-5.08-12P)
+Added Component: Designator=J6(CCM-5.08-12P)
+Added Component: Designator=J7(HDR2.54-LI-5P)
+Added Component: Designator=Q3(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "FUXINSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "S8050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C908252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S8050_C908252"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0805R)
+Added Component: Designator=R28(0805R)
+Added Component: Designator=R29(0805R)
+Added Component: Designator=R30(0805R)
+Added Component: Designator=R31(0805R)
+Added Component: Designator=R32(0805R)
+Added Component: Designator=R33(0805R)
+Added Component: Designator=R34(0805R)
+Added Component: Designator=S1(TSW SMD-3*6*2.5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S3(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S4(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S5(TSW DIP-6*6*5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U10()
+Added Component: Designator=U11(SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Youtai Semiconductor Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C347256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "AMS1117-3.3_C347256"; VariantName = "[No Variations]"
+Added Component: Designator=U12(VSSOP-10_L3.0-W3.0-P0.50-LS4.9-BL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "ADS1115IDGST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C468683"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "ADS1115IDGST"; VariantName = "[No Variations]"
+Added Component: Designator=U13(VSSOP-8_L3.0-W3.0-P0.65-LS5.0-BL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DAC8552IDGKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C136020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DAC8552IDGKR"; VariantName = "[No Variations]"
+Added Component: Designator=U14(TFT0.96-13P)
+Added Component: Designator=X1(OSC HC-49S)
+Added Component: Designator=X2(OSC-3x8-LI)
+Added Pin To Net: NetName=+5V_Anagle Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VDD Pin=C21-1
+Added Pin To Net: NetName=DGND Pin=C21-2
+Added Pin To Net: NetName=+5V_Anagle Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VDD Pin=C23-1
+Added Pin To Net: NetName=DGND Pin=C23-2
+Added Pin To Net: NetName=DGND Pin=C24-1
+Added Pin To Net: NetName=OSC-IN Pin=C24-2
+Added Pin To Net: NetName=DGND Pin=C25-1
+Added Pin To Net: NetName=OSC32-IN Pin=C25-2
+Added Pin To Net: NetName=VDD Pin=C26-1
+Added Pin To Net: NetName=DGND Pin=C26-2
+Added Pin To Net: NetName=DGND Pin=C27-1
+Added Pin To Net: NetName=OSC-OUT Pin=C27-2
+Added Pin To Net: NetName=DGND Pin=C28-1
+Added Pin To Net: NetName=OSC32-OUT Pin=C28-2
+Added Pin To Net: NetName=VDD Pin=C29-1
+Added Pin To Net: NetName=DGND Pin=C29-2
+Added Pin To Net: NetName=VDD Pin=C30-1
+Added Pin To Net: NetName=DGND Pin=C30-2
+Added Pin To Net: NetName=VDD Pin=C31-1
+Added Pin To Net: NetName=DGND Pin=C31-2
+Added Pin To Net: NetName=VDD Pin=C32-1
+Added Pin To Net: NetName=DGND Pin=C32-2
+Added Pin To Net: NetName=NRST Pin=C33-1
+Added Pin To Net: NetName=DGND Pin=C33-2
+Added Pin To Net: NetName=DGND Pin=C34-1
+Added Pin To Net: NetName=VDD Pin=C34-2
+Added Pin To Net: NetName=TFT_SDA Pin=J5-1
+Added Pin To Net: NetName=TFT_SCL Pin=J5-2
+Added Pin To Net: NetName=TFT_DC Pin=J5-3
+Added Pin To Net: NetName=TFT_RES Pin=J5-4
+Added Pin To Net: NetName=TFT_CS Pin=J5-5
+Added Pin To Net: NetName=TFT_BLK Pin=J5-6
+Added Pin To Net: NetName=PB8 Pin=J5-7
+Added Pin To Net: NetName=PB9 Pin=J5-8
+Added Pin To Net: NetName=PB10 Pin=J5-9
+Added Pin To Net: NetName=PB11 Pin=J5-10
+Added Pin To Net: NetName=VDD Pin=J5-11
+Added Pin To Net: NetName=DGND Pin=J5-12
+Added Pin To Net: NetName=TFT_SDA Pin=J6-1
+Added Pin To Net: NetName=TFT_SCL Pin=J6-2
+Added Pin To Net: NetName=TFT_DC Pin=J6-3
+Added Pin To Net: NetName=TFT_RES Pin=J6-4
+Added Pin To Net: NetName=TFT_CS Pin=J6-5
+Added Pin To Net: NetName=TFT_BLK Pin=J6-6
+Added Pin To Net: NetName=PB8 Pin=J6-7
+Added Pin To Net: NetName=PB9 Pin=J6-8
+Added Pin To Net: NetName=PB10 Pin=J6-9
+Added Pin To Net: NetName=PB11 Pin=J6-10
+Added Pin To Net: NetName=VDD Pin=J6-11
+Added Pin To Net: NetName=DGND Pin=J6-12
+Added Pin To Net: NetName=VDD Pin=J7-1
+Added Pin To Net: NetName=SWDIO Pin=J7-2
+Added Pin To Net: NetName=DGND Pin=J7-3
+Added Pin To Net: NetName=SWCLK Pin=J7-4
+Added Pin To Net: NetName=NRST Pin=J7-5
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=DGND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=VDD Pin=R27-1
+Added Pin To Net: NetName=NetD4_A Pin=R27-2
+Added Pin To Net: NetName=AD_SCL Pin=R28-1
+Added Pin To Net: NetName=VDD Pin=R28-2
+Added Pin To Net: NetName=AD_SDA Pin=R29-1
+Added Pin To Net: NetName=VDD Pin=R29-2
+Added Pin To Net: NetName=NRST Pin=R30-1
+Added Pin To Net: NetName=VDD Pin=R30-2
+Added Pin To Net: NetName=TFT_BLK Pin=R31-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R31-2
+Added Pin To Net: NetName=NetQ3_3 Pin=R32-1
+Added Pin To Net: NetName=LEDK Pin=R32-2
+Added Pin To Net: NetName=PC13 Pin=R33-1
+Added Pin To Net: NetName=NetD5_A Pin=R33-2
+Added Pin To Net: NetName=VDD Pin=R34-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R34-2
+Added Pin To Net: NetName=DGND Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-2
+Added Pin To Net: NetName=DGND Pin=S2-1
+Added Pin To Net: NetName=PB8 Pin=S2-2
+Added Pin To Net: NetName=DGND Pin=S3-1
+Added Pin To Net: NetName=PB9 Pin=S3-2
+Added Pin To Net: NetName=DGND Pin=S4-1
+Added Pin To Net: NetName=PB10 Pin=S4-2
+Added Pin To Net: NetName=DGND Pin=S5-1
+Added Pin To Net: NetName=PB11 Pin=S5-2
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=VDD Pin=U11-2
+Added Pin To Net: NetName=+5V_Anagle Pin=U11-3
+Added Pin To Net: NetName=VDD Pin=U11-4
+Added Pin To Net: NetName=DGND Pin=U12-1
+Added Pin To Net: NetName=READY Pin=U12-2
+Added Pin To Net: NetName=DGND Pin=U12-3
+Added Pin To Net: NetName=NetJ3_1 Pin=U12-4
+Added Pin To Net: NetName=NetR3_2 Pin=U12-6
+Added Pin To Net: NetName=VDD Pin=U12-8
+Added Pin To Net: NetName=AD_SDA Pin=U12-9
+Added Pin To Net: NetName=AD_SCL Pin=U12-10
+Added Pin To Net: NetName=VREF Pin=U13-1
+Added Pin To Net: NetName=VREF Pin=U13-2
+Added Pin To Net: NetName=NetC8_2 Pin=U13-3
+Added Pin To Net: NetName=NetR23_1 Pin=U13-4
+Added Pin To Net: NetName=DA_C\S\ Pin=U13-5
+Added Pin To Net: NetName=DA_SCK Pin=U13-6
+Added Pin To Net: NetName=DA_MOSI Pin=U13-7
+Added Pin To Net: NetName=GND Pin=U13-8
+Added Pin To Net: NetName=TFT_SDA Pin=U14-3
+Added Pin To Net: NetName=TFT_SCL Pin=U14-4
+Added Pin To Net: NetName=TFT_DC Pin=U14-5
+Added Pin To Net: NetName=TFT_RES Pin=U14-6
+Added Pin To Net: NetName=TFT_CS Pin=U14-7
+Added Pin To Net: NetName=DGND Pin=U14-8
+Added Pin To Net: NetName=VDD Pin=U14-10
+Added Pin To Net: NetName=LEDK Pin=U14-11
+Added Pin To Net: NetName=VDD Pin=U14-12
+Added Pin To Net: NetName=DGND Pin=U14-13
+Added Pin To Net: NetName=OSC-OUT Pin=X1-1
+Added Pin To Net: NetName=OSC-IN Pin=X1-2
+Added Pin To Net: NetName=OSC32-OUT Pin=X2-1
+Added Pin To Net: NetName=OSC32-IN Pin=X2-2
+Added Class: Name=U_STM32_System
+Added Room: Name=U_STM32_System

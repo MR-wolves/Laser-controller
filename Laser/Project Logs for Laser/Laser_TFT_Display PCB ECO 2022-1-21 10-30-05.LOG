@@ -1,0 +1,40 @@
+Added Pin To Net: NetName=TFT_SDA Pin=J6-1
+Added Pin To Net: NetName=TFT_SCL Pin=J6-2
+Added Pin To Net: NetName=TFT_DC Pin=J6-3
+Added Pin To Net: NetName=TFT_RES Pin=J6-4
+Added Pin To Net: NetName=TFT_CS Pin=J6-5
+Added Pin To Net: NetName=TFT_BLK Pin=J6-6
+Added Pin To Net: NetName=PB8 Pin=J6-7
+Added Pin To Net: NetName=PB9 Pin=J6-8
+Added Pin To Net: NetName=PB10 Pin=J6-9
+Added Pin To Net: NetName=PB11 Pin=J6-10
+Added Pin To Net: NetName=VDD Pin=J6-11
+Added Pin To Net: NetName=DGND Pin=J6-12
+Added Pin To Net: NetName=DGND Pin=S2-1
+Added Pin To Net: NetName=PB8 Pin=S2-2
+Added Pin To Net: NetName=DGND Pin=S3-1
+Added Pin To Net: NetName=PB9 Pin=S3-2
+Added Pin To Net: NetName=DGND Pin=S4-1
+Added Pin To Net: NetName=PB10 Pin=S4-2
+Added Pin To Net: NetName=DGND Pin=S5-1
+Added Pin To Net: NetName=PB11 Pin=S5-2
+Added Pin To Net: NetName=TFT_SDA Pin=U14-3
+Added Pin To Net: NetName=TFT_SCL Pin=U14-4
+Added Pin To Net: NetName=TFT_DC Pin=U14-5
+Added Pin To Net: NetName=TFT_RES Pin=U14-6
+Added Pin To Net: NetName=TFT_CS Pin=U14-7
+Added Pin To Net: NetName=DGND Pin=U14-8
+Added Pin To Net: NetName=VDD Pin=U14-10
+Added Pin To Net: NetName=LEDK Pin=U14-11
+Added Pin To Net: NetName=VDD Pin=U14-12
+Added Pin To Net: NetName=DGND Pin=U14-13
+Added Member To Class: ClassName=U_STM32_System Member=Component H5 ¹Ì¶¨¿×
+Added Member To Class: ClassName=U_STM32_System Member=Component H6 ¹Ì¶¨¿×
+Added Member To Class: ClassName=U_STM32_System Member=Component H7 ¹Ì¶¨¿×
+Added Member To Class: ClassName=U_STM32_System Member=Component H8 ¹Ì¶¨¿×
+Added Member To Class: ClassName=U_STM32_System Member=Component J6 CON12
+Added Member To Class: ClassName=U_STM32_System Member=Component S2 SW-SPST
+Added Member To Class: ClassName=U_STM32_System Member=Component S3 SW-SPST
+Added Member To Class: ClassName=U_STM32_System Member=Component S4 SW-SPST
+Added Member To Class: ClassName=U_STM32_System Member=Component S5 SW-SPST
+Added Member To Class: ClassName=U_STM32_System Member=Component U14 TFT 0.96'
