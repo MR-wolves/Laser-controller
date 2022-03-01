@@ -1,0 +1,8 @@
+Added Component: Designator=H1(Í­Öù¿×3)
+Added Component: Designator=H2(Í­Öù¿×3)
+Added Component: Designator=H3(Í­Öù¿×3)
+Added Component: Designator=H4(Í­Öù¿×3)
+Added Member To Class: ClassName=Laser_main Member=Component H1 ¹Ì¶¨¿×
+Added Member To Class: ClassName=Laser_main Member=Component H2 ¹Ì¶¨¿×
+Added Member To Class: ClassName=Laser_main Member=Component H3 ¹Ì¶¨¿×
+Added Member To Class: ClassName=Laser_main Member=Component H4 ¹Ì¶¨¿×
