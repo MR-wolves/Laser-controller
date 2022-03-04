@@ -175,6 +175,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRQKBQPO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Laser\Design Rule Check - Laser.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Laser\Design Rule Check - Laser_TFT_Display.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

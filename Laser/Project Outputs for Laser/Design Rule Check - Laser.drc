@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\Stm32Cubemx Projects\Laser controller\Laser\Laser.PcbDoc
 Date     : 2022/3/4
-Time     : 19:43:40
+Time     : 20:28:56
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -27,4 +27,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
