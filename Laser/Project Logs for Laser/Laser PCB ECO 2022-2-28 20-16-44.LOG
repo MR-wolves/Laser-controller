@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=C14 Old Footprint=C 0603_M New Footprint=C 0805_M
-Change Component Footprint: Designator=C15 Old Footprint=C 0603_M New Footprint=C 0805_M
-Change Component Footprint: Designator=C19 Old Footprint=C 0603_M New Footprint=C 0805_M
-Change Component Footprint: Designator=C20 Old Footprint=C 0603_M New Footprint=C 0805_M
-Change Component Footprint: Designator=C21 Old Footprint=C 0603_M New Footprint=C 0805_M
-Change Component Comment : Designator=C19 Old Comment=10uF New Comment=22uF
-Change Component Comment : Designator=C20 Old Comment=10uF New Comment=22uF
-Change Component Comment : Designator=C21 Old Comment=10uF New Comment=22uF

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\Stm32Cubemx Projects\Laser controller\Laser\Laser.PcbDoc
-Date     : 2022/3/4
-Time     : 20:28:56
+Date     : 2022/3/10
+Time     : 12:26:10
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -18,7 +18,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
@@ -27,4 +27,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
